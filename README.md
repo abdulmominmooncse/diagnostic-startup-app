@@ -5,7 +5,7 @@
 
 1. **Clone** the repository:
    ```bash
-   git clone [https://github.com/abdulmominmooncse/hospital-management-system](https://github.com/abdulmominmooncse/diagnostic-startup-app)
+   git clone https://github.com/abdulmominmooncse/diagnostic-startup-app
    npm install
    npm run dev
    ```
